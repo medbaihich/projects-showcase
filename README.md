@@ -30,6 +30,10 @@ This repository is a showcase of my main projects in **IoT, Embedded Systems, Ma
 - [TP1_Prog.TempsReel](https://github.com/medbaihich/TP1_Prog.TempsReel) – Real-time systems practicals.  
 - [TravauxPratiques_python](https://github.com/medbaihich/TravauxPratiques_python) – Python exercises and labs.
 
+---
+
+ ## 🏤 Building Light Control Project
+ - [Projet](https://github.com/medbaihich/control_lumiere) – Light Control Project.
 
   ---
 
